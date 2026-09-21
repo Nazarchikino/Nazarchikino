@@ -15,9 +15,9 @@ I'm a Computer Science student and software enthusiast passionate about desktop 
 
 ### 🚀 Featured Projects
 
-* **[tgrat](https://github.com/your-username/tgrat)** — A lightweight remote administration / client management tool built with **Go**, leveraging the Telegram Bot API for command execution, telemetry, and remote control channels.
+* **[tgrat](https://github.com/Nazarchikino/tgrat)** — A lightweight remote administration / client management tool built with **Go**, leveraging the Telegram Bot API for command execution, telemetry, and remote control channels.
 * **Qt Analytical Dashboard** — Desktop GUI application built with **C++ & Qt Widgets** with custom MySQL driver integration for asset tracking and analytics.
-* **Automation Suites** — Headless browser automation scripts via **Playwright (Python)** and data processing pipelines for automated service interactions.
+* **[HSC Queue Monitor](https://github.com/Nazarchikino/hsc-queue-monitor)** — An automated Telegram notification service built with **Python**, designed to track electronic queue slot availability for Main Service Center (HSC) locations in real-time.
 
 ---
 
